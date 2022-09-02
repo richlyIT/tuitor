@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/tuitor/static/css/main.bf9a2c26.css",
-    "main.js": "/tuitor/static/js/main.33cabd8e.js",
+    "main.js": "/tuitor/static/js/main.d9283e3a.js",
     "static/js/787.81b59231.chunk.js": "/tuitor/static/js/787.81b59231.chunk.js",
     "static/media/pic.jpg": "/tuitor/static/media/pic.0f67dfe867c516da06e9.jpg",
     "index.html": "/tuitor/index.html",
     "main.bf9a2c26.css.map": "/tuitor/static/css/main.bf9a2c26.css.map",
-    "main.33cabd8e.js.map": "/tuitor/static/js/main.33cabd8e.js.map",
+    "main.d9283e3a.js.map": "/tuitor/static/js/main.d9283e3a.js.map",
     "787.81b59231.chunk.js.map": "/tuitor/static/js/787.81b59231.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf9a2c26.css",
-    "static/js/main.33cabd8e.js"
+    "static/js/main.d9283e3a.js"
   ]
 }
