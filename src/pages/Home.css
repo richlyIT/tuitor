@@ -1,0 +1,53 @@
+.card-card{
+    transition: 0.1s;
+}
+.card-card:hover{
+    border-color: green;
+    border: 2px solid green;
+    cursor: pointer;
+}
+.card-col{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+.card-col a{
+    text-decoration: none;
+    color: #000 ;
+}
+
+/******testimonial section********/
+.card-container{
+    border-radius: 8px;
+    width: fit-content;
+    padding: 20px 30px 40px 30px;
+    font-size: 16px;
+    font-weight: bold;
+    /*border: 1px solid #818181;*/
+    cursor: pointer;
+}
+.card-header{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 25px;
+    margin-top: 16px;
+}
+.card-header img{
+    margin-right: 20px;
+    border-radius: 50%;
+}
+.card-text-testimonial{
+    background-color: green;
+    padding: 15px 17px;
+    border-radius: 13px;
+    color: #fff;
+    margin-bottom: 0;
+}
+.slick-slide > div{
+    margin: 0 10px;
+}
+.slick-list{
+    margin: 0 -10px;
+}

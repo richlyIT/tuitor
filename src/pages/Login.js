@@ -8,8 +8,8 @@ function Login() {
     <div>
       <Navigation1 />
       <Container fluid>
-        <Row>
-          <Col md={6} className="login_bg">
+        <Row className="login-container">
+          <Col md={6} className="login_bg d-flex align-items-center justify-content-center">
             <p>Find your solution with Tuitor</p>
           </Col>
           <Col md={6} className="d-flex align-items-center justify-content-center flex-direction-column">
