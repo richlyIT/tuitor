@@ -50,3 +50,21 @@
 #Zaza {
     text-decoration: none;
 }
+
+@media only screen and (max-width: 414px) {
+    .info {
+        margin-left: 120px;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .info {
+        margin-left: 100px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .info {
+        margin-left: 95px;
+    }
+}

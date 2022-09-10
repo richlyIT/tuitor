@@ -19,7 +19,7 @@ function Footer() {
         </head><body>
                 <div className="my-5" name="footer">
                     <footer className="text-center text-lg-start text-dark" style={{ backgroundColor: "#ECEFF1" }}>
-                        <section className="p-4 text-white" style={{ backgroundColor: "#21D192" }}>
+                        <section className="p-4 text-white" style={{ backgroundColor: "#198754" }}>
                             <div className="logos">
                                 <a href="#/" className="me-4">
                                     <FaFacebookF style={{ color: "rgb(255, 255, 255)"}}  />
