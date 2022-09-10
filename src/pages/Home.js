@@ -14,6 +14,9 @@ import Slider from 'react-slick';
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
 
+import Footer from '../components/footer';
+import Navigation from '../components/Navigation';
+//import {Container, Row, Col, Form, Button} from 'react-bootstrap';
 
 function Home() {
   var discoverArray = [
@@ -148,6 +151,8 @@ function Home() {
         </Slider>
         
       </Container>
+      <Navigation />
+      <Footer/>      
     </div>
   )
 }
