@@ -1,0 +1,28 @@
+.card2-container{
+    width: 22.1rem;
+    height: 16rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: baseline;
+    cursor: pointer;
+}
+.card2-container img{
+    width: 20rem;
+    height: 12rem;
+}
+.card2-footer{
+    width: 20rem;
+    height: 4rem;
+    background: rgb(25, 135, 84);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.card2-footer span{
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+}

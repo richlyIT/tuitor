@@ -1,0 +1,15 @@
+.Title-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 22px;
+    margin-top: 22px;
+}
+.Title-container a {
+    text-decoration: none;
+}
+.Title-container span{
+    font-size: 18px;
+}

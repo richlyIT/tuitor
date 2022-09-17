@@ -1,0 +1,30 @@
+.card-container{
+    width: 18rem;
+    height: 23rem;
+    color: #ffffff;
+    border: 1px solid rgb(25, 135, 84);
+    position: relative;
+    background: rgb(25, 135, 84);
+    border-radius: 8px;
+    padding: 20px 30px 40px 30px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.card-text{
+    margin-top: 80px;
+    right: 0;
+    text-align: center;
+}
+.card-footer{
+    position: absolute;
+    margin-top: 25px;
+    bottom: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.card-footer img{
+    border-radius: 50%;
+}

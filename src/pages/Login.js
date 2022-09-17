@@ -2,7 +2,7 @@ import React from 'react';
 import './Login.css';
 import Navigation1 from '../components/Navigation1';
 import {Container, Row, Col, Form, Button} from 'react-bootstrap';
-
+import Footer from '../components/footer'
 function Login() {
   return (
     <div>
@@ -37,6 +37,7 @@ function Login() {
           </Col>
         </Row>
       </Container>
+      <Footer/>
     </div>
   )
 }
